@@ -3,7 +3,8 @@
     "beforeBuildCommand": "",
     "beforeDevCommand": "",
     "devPath": "../src-ui",
-    "distDir": "../src-ui"
+    "distDir": "../src-ui",
+    "withGlobalTauri": true
   },
   "package": {
     "productName": "image-generator",
